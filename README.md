@@ -1,0 +1,1 @@
+# hummingbot_pure_plugin_RSI_MACD
